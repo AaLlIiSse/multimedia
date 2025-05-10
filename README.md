@@ -1,6 +1,6 @@
 # Группа: М8О-410Б-21
 
-# Внимание!! Почему-то ноутбук моей 7 ЛР не хочет открываться в Гитхабе. Скачать и посмотреть его можно тут https://drive.google.com/drive/folders/1s-M5Jqt759jxgthh9RT6iPVb_miat1mJ?hl=ru
+# Внимание!! Почему-то ноутбук моей 7 ЛР не хочет открываться в Гитхабе. Скачать и посмотреть его можно тут [https://drive.google.com/drive/folders/1s-M5Jqt759jxgthh9RT6iPVb_miat1mJ?hl=ru](https://drive.google.com/file/d/1sr7Rgn4xqu6x-VztKpru2HcG4yD0tkGQ/view?usp=sharing)
 
 # Студент: Агеева Алиса Ивановна
 
